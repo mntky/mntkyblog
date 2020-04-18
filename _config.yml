@@ -30,8 +30,8 @@ twitter_username: MinatooKy
 github_username:  mntky
 
 header_pages:
-	- index.md
-	- about.md
+  - index.md
+  - about.md
 
 style: dark
 
